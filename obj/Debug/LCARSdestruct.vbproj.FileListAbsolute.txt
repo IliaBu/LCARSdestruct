@@ -1,0 +1,15 @@
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\bin\Debug\LCARSdestruct.exe
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\bin\Debug\LCARSdestruct.pdb
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\bin\Debug\LCARSdestruct.xml
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\bin\Debug\LCARS.dll
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\bin\Debug\LCARS.pdb
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\bin\Debug\LCARS.xml
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.vbprojAssemblyReference.cache
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.frmAutoDestruct.resources
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.Resources.resources
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.vbproj.GenerateResource.cache
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.vbproj.CoreCompileInputs.cache
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.vbproj.CopyComplete
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.exe
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.xml
+E:\RaspberryPi\LCARS\00_Main-LCARS-x32-Project-0.7.2\Main-LCARS-x32-Project-0.7.2 (1)\LCARSdestruct\LCARSdestruct\obj\Debug\LCARSdestruct.pdb
